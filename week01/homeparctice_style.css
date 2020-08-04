@@ -1,0 +1,31 @@
+
+/* 첫수업 전반부 로그인하기 실습 css 스타일 파일 분리한거*/
+
+* {
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.mytitle {
+
+    width: 340px;
+    height: 200px;
+
+    color: white;
+
+    text-align: center;
+
+    background-image: url("https://cdn.mos.cms.futurecdn.net/G9Qw6643nhGwnMzwRn7fMB-1200-80.jpg");
+    backgroung-size: cover;
+    background-position: center;
+
+    border-radius: 15px;
+
+    padding: 40px 20px 10px 20px;
+
+
+}
+
+.wrap {
+    width: 340px;
+    margin: auto auto auto auto;
+}
